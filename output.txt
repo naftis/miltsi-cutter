@@ -1,0 +1,1 @@
+[{"filename": "out1.png", "is_recordable_tick": false, "is_normal_question": false}]
